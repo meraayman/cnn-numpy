@@ -1,0 +1,9 @@
+# MNIST data — download instructions are in README.md
+mnist_train.csv
+mnist_test.csv
+*.csv.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
