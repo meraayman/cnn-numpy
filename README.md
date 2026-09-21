@@ -179,4 +179,4 @@ It is **not** intended for:
 
 ## License
 
-Add your preferred license here (e.g., MIT) before publishing, if you haven't already.
+MIT
